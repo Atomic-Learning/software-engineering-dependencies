@@ -1,21 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Software Engineering: Dependencies",
+    "slug": "software-engineering-dependencies",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "software-engineering-libraries",
+        "software-engineering-modules",
+        "software-engineering-databases",
+        "software-engineering-compilers"
     ]
 }
